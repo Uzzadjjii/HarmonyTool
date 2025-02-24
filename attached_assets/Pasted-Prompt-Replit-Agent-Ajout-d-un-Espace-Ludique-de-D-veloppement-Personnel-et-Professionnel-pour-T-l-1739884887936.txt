@@ -1,0 +1,147 @@
+Prompt Replit Agent – Ajout d’un Espace Ludique de Développement Personnel et Professionnel pour Téléconseillers
+
+
+---
+
+💡 Objectif :
+Créer un espace ludique interactif dans l’application pour les téléconseillers, combinant jeux, formation gamifiée, simulateurs IA, et bien-être. Cet espace doit être intuitif, moderne et engageant, avec un système de progression et de récompenses.
+
+
+---
+
+🛠️ Fonctionnalités à Implémenter :
+
+1️⃣ Mini-Jeux et Défis Gamifiés
+
+🎮 Jeu de cartes "Cas Clients"
+
+Interface affichant une carte aléatoire avec un scénario client.
+
+3 choix de réponse avec notation automatique selon la pertinence.
+
+Historique des parties et affichage des meilleurs scores.
+
+
+📊 Quizz Hebdomadaires
+
+Générateur automatique de quizz thématiques sur la mutuelle, la communication et la gestion client.
+
+Questions en QCM ou vrai/faux, avec un système de points.
+
+Classement interne et tableau des meilleurs scores.
+
+
+⏳ Mode "Speed Training"
+
+Affichage d’un cas client chronométré (60 sec max).
+
+Réponse en texte libre, analysée par l’IA pour valider la pertinence.
+
+Indication des points forts et axes d’amélioration.
+
+
+
+---
+
+2️⃣ Parcours de Formation Gamifié
+
+🏆 "Mission Téléconseiller Élite"
+
+Système de niveaux et badges pour motiver l’apprentissage.
+
+Chaque niveau validé correspond à une compétence clé (ex: écoute, gestion des objections).
+
+Passage au niveau supérieur via :
+
+Réussite d’un quizz
+
+Score minimum sur un mini-jeu
+
+Exercice pratique analysé par l’IA
+
+
+
+📚 Bibliothèque Interactive et Podcasts
+
+Intégration d’une bibliothèque de contenus : articles, vidéos, podcasts sur le métier.
+
+Possibilité d’écouter des podcasts motivants sur la relation client et le bien-être.
+
+Résumés interactifs à la fin de chaque contenu avec validation d’apprentissage.
+
+
+🗣️ Simulateur de Conversations avec IA
+
+L’IA joue le rôle d’un client avec différents scénarios.
+
+L’utilisateur doit répondre en temps réel, et l’IA évalue sa performance.
+
+Feedback détaillé avec analyse du ton, formulation et empathie.
+
+
+
+---
+
+3️⃣ Système de Récompenses et Motivation
+
+🥇 Défis Hebdomadaires et Missions
+
+Chaque semaine, un défi à relever (ex: réussir 3 quizz à 100%).
+
+Attribution de badges et points en cas de succès.
+
+Classement des meilleurs téléconseillers via un Leaderboard interactif.
+
+
+🎁 Récompenses Virtuelles
+
+Possibilité d’échanger les points contre avantages internes (ex: contenus exclusifs).
+
+Système de progression avec statistiques de performance accessibles dans le profil.
+
+
+
+---
+
+4️⃣ Espace Bien-être et Détente
+
+🧘 Exercices de Relaxation
+
+Mini-vidéos et audios de respiration contrôlée après des appels stressants.
+
+Conseils pratiques pour gérer la pression et la fatigue mentale.
+
+
+🎵 Playlist Concentration et Motivation
+
+Sélection de musiques relaxantes pour optimiser la productivité et la concentration.
+
+Option d’écoute en fond sonore directement dans l’application.
+
+
+
+---
+
+🎯 Expérience Utilisateur et Interface
+
+Design moderne et interactif, accessible facilement via le menu principal.
+
+Affichage dynamique des scores et progression des utilisateurs.
+
+Intégration d’un tableau de bord pour voir ses statistiques et son évolution.
+
+Mode "Solo" et "Défis entre collègues" pour renforcer l’engagement.
+
+
+
+---
+
+🚀 Objectif Final :
+
+Créer un espace 100% interactif et ludique, qui améliore à la fois les compétences professionnelles, la motivation et le bien-être des téléconseillers, tout en favorisant une expérience utilisateur immersive et engageante.
+
+
+---
+
+✨ Replit Agent, développe cette fonctionnalité en intégrant les outils no-code et API nécessaires pour gérer les données et assurer une expérience fluide et évolutive.
+

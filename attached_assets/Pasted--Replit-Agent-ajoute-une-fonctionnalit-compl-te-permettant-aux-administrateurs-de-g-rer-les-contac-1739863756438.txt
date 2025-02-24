@@ -1,0 +1,105 @@
+"Replit Agent, ajoute une fonctionnalité complète permettant aux administrateurs de gérer les contacts et les questions de la FAQ dans l’application avec stockage des données via une API et un outil no-code."
+
+
+---
+
+1️⃣ Gestion des Contacts (avec stockage API)
+
+Créer une interface no-code permettant aux administrateurs d’ajouter, modifier et supprimer des contacts.
+
+Chaque contact doit contenir les informations suivantes :
+
+Nom
+
+Numéro de téléphone
+
+Adresse email
+
+Adresse postale
+
+
+Stockage des contacts via une API externe (ex: Airtable, Firebase ou Supabase)
+
+Configurer les requêtes GET, POST, PUT, DELETE pour gérer les contacts.
+
+Ajouter un formulaire permettant d’entrer les clés API et de choisir la source de stockage.
+
+
+Ajout d’une barre de recherche pour retrouver rapidement un contact.
+
+Export des contacts au format CSV pour permettre un téléchargement rapide.
+
+
+
+---
+
+2️⃣ Gestion de la FAQ (avec stockage API)
+
+Créer une interface d’administration permettant aux administrateurs d’ajouter, modifier et supprimer des questions courantes.
+
+Chaque question de la FAQ doit contenir :
+
+Question
+
+Réponse détaillée (avec formatage du texte : gras, italique, listes)
+
+
+Stockage des questions via une API externe (ex: Airtable, Firebase, Supabase).
+
+Permettre aux administrateurs de saisir leurs propres clés API pour utiliser un service de stockage.
+
+
+Intégrer un moteur de recherche intelligent permettant aux utilisateurs de trouver rapidement des réponses.
+
+Ajouter un système de vote pour permettre aux utilisateurs d’indiquer si une réponse est utile.
+
+
+
+---
+
+3️⃣ Intégration d’un Outil No-Code pour la Gestion des Données
+
+Ajouter un tableau interactif no-code (similaire à Airtable ou Google Sheets) directement dans l'application.
+
+Permettre aux administrateurs de gérer visuellement les contacts et FAQ sans avoir à passer par l’API manuellement.
+
+Ajouter la possibilité de lier les données API avec cet outil, permettant une gestion simplifiée.
+
+L’outil devra afficher une vue tableau avec tri et filtres dynamiques.
+
+
+
+---
+
+4️⃣ Interface et Expérience Utilisateur
+
+Interface intuitive et sans code, accessible aux administrateurs sans compétences techniques.
+
+Ajouter des boutons clairs :
+
+"Ajouter un contact"
+
+"Modifier un contact"
+
+"Supprimer un contact"
+
+"Ajouter une question"
+
+"Modifier une question"
+
+"Supprimer une question"
+
+
+Système de confirmation avant toute suppression de données.
+
+Tableau de bord pour voir le nombre de contacts et de questions courantes ajoutées.
+
+
+
+---
+
+🎯 Objectif :
+Créer un outil 100% no-code et connecté à une API externe pour permettre une gestion des contacts et de la FAQ fluide, moderne et évolutive.
+
+
+---
